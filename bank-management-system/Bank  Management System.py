@@ -1,4 +1,4 @@
-# *****-----            Bank Management System          -----*****#
+# *****-----            Bank Management System By Akshat Jaiswal         -----*****#
 
 import mysql.connector as sql
 from tkinter import *
@@ -682,4 +682,4 @@ customer_button.place(x=570,y=260)
 
 win1.mainloop()
 
-# *****-----            Bank Management System          -----*****#
+# *****-----            Bank Management System By Akshat Jaiswal        -----*****#
