@@ -1,3 +1,3 @@
-DU Programming with Python GUI 
+# DU Programming with Python GUI 
 
 tkinter assignments with code 
